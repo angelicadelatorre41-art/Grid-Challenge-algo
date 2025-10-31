@@ -1,1 +1,1 @@
-# Grid-Challenge-algo
+# Grid-Challenge-algo The program first sorts each row of the grid alphabetically to ensure rows are in non-decreasing order. It then checks if each column is also sorted top-to-bottom; if all columns pass, it returns "YES", otherwise "NO".
